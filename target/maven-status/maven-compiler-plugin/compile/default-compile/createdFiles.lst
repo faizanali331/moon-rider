@@ -1,0 +1,10 @@
+com\javatechie\crud\example\entity\Contact.class
+com\javatechie\crud\example\entity\Product.class
+com\javatechie\crud\example\service\ContactService.class
+com\javatechie\crud\example\SpringBootCrudExample2Application.class
+com\javatechie\crud\example\repository\ProductRepository.class
+com\javatechie\crud\example\service\ProductService.class
+com\javatechie\crud\example\controller\ContactController.class
+com\javatechie\crud\example\controller\ProductController.class
+com\javatechie\crud\example\repository\ContactRepository.class
+com\javatechie\crud\example\response\ContactResponse.class
